@@ -1,7 +1,7 @@
 {
   "name": "second-brain-triage",
-  "version": "1.0.0",
-  "description": "智能信息分诊系统 - 基于PARA方法的自动分类和优先级排序",
+  "version": "1.0.1",
+  "description": "Intelligent information triage system - automatic categorization and priority scoring based on PARA method",
   "main": "src/index.js",
   "bin": {
     "triage": "./scripts/triage.js"
